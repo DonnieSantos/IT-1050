@@ -52,6 +52,27 @@
 
             string myName = "Donnie";
             int myWeight = 190;
+
+            // +==================================================================================+
+            // | Another important thing to note is that there are multiple kinds of values.      |
+            // | The simplest kind of value is called a LITERAL.                                  |
+            // | A literal is an explicit value, such as the number 10, or the string "Hello".    |
+            // | A variable is a container for a value, but a variable is not a literal.          |
+            // | This is because a variable value is not known until it is examined in memory.    |
+            // +==================================================================================+
+
+            int myScore = 99;                   // Assigning a literal value of 99 to a variable.
+            int yourScore = 86;                 // Assigning a literal value of 86 to a variable.
+            int highestScore = myScore;         // Assigning a variable value to a variable.
+
+            // +==================================================================================+
+            // | Notice we assigned the variable "highestScore" the value of "myScore".           |
+            // | "myScore" is a variable of type int, which means it contains an integer value.   |
+            // | But it is not literal, because we don't know the value until the program runs.   |
+            // | When the program runs, the variable "myScore" will contain a value of 99.        |
+            // | So, "highestScore" will be assigned a copy of that value, also 99.               |
+            // | You should always know the difference between a literal and a variable value.    |
+            // +==================================================================================+
         }
     }
 }
