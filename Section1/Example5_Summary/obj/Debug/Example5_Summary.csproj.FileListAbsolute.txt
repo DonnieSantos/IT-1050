@@ -1,0 +1,5 @@
+C:\Users\Donald\Desktop\IT-1050\Section1\Example5_Summary\bin\Debug\Example5_Summary.exe
+C:\Users\Donald\Desktop\IT-1050\Section1\Example5_Summary\bin\Debug\Example5_Summary.pdb
+C:\Users\Donald\Desktop\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.csprojResolveAssemblyReference.cache
+C:\Users\Donald\Desktop\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.exe
+C:\Users\Donald\Desktop\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.pdb

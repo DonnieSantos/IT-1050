@@ -42,6 +42,16 @@
             isDoorClosed = "true";              // Incorrect bool Value Assignment
             isDoorClosed = true;                // CORRECT bool Value Assignment
             isDoorClosed = false;               // CORRECT bool Value Assignment
+
+            // +==================================================================================+
+            // | If you wish to make your code a little more concise, you can combine the         |
+            // | variable declaration and the value assignment into one line of code. This is     |
+            // | called a "compound statement", since one line of code is performing multiple     |
+            // | instructions. This is a very common thing to do in C# programming.               |
+            // +==================================================================================+
+
+            string myName = "Donnie";
+            int myWeight = 190;
         }
     }
 }
