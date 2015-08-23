@@ -1,0 +1,5 @@
+C:\Users\Donald\Desktop\Section1\Example1_DeclaringVariables\bin\Debug\Example1_DeclaringVariables.exe
+C:\Users\Donald\Desktop\Section1\Example1_DeclaringVariables\bin\Debug\Example1_DeclaringVariables.pdb
+C:\Users\Donald\Desktop\Section1\Example1_DeclaringVariables\obj\Debug\Example1_DeclaringVariables.csprojResolveAssemblyReference.cache
+C:\Users\Donald\Desktop\Section1\Example1_DeclaringVariables\obj\Debug\Example1_DeclaringVariables.exe
+C:\Users\Donald\Desktop\Section1\Example1_DeclaringVariables\obj\Debug\Example1_DeclaringVariables.pdb

@@ -1,0 +1,5 @@
+C:\Users\Donald\Desktop\Section1\Example2_AssigningValues\bin\Debug\Example2_AssigningValues.exe
+C:\Users\Donald\Desktop\Section1\Example2_AssigningValues\bin\Debug\Example2_AssigningValues.pdb
+C:\Users\Donald\Desktop\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.exe
+C:\Users\Donald\Desktop\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.pdb
+C:\Users\Donald\Desktop\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.csprojResolveAssemblyReference.cache

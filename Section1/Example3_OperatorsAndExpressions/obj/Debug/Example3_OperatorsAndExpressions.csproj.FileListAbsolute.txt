@@ -1,0 +1,5 @@
+C:\Users\Donald\Desktop\Section1\Example3_OperatorsAndExpressions\bin\Debug\Example3_OperatorsAndExpressions.exe
+C:\Users\Donald\Desktop\Section1\Example3_OperatorsAndExpressions\bin\Debug\Example3_OperatorsAndExpressions.pdb
+C:\Users\Donald\Desktop\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Donald\Desktop\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.exe
+C:\Users\Donald\Desktop\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.pdb
