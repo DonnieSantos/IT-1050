@@ -53,8 +53,8 @@
             OK = !true;             // Value Assignment of Boolean Expression.          [false]
             OK = 1 == 2;            // Value Assignment of Boolean Expression.          [false]
             OK = 1 != 2;            // Value Assignment of Boolean Expression.          [true]
-            OK = 25 > 100;          // Value Assignment of Boolean Expression.          [false]
-            OK = 25 < 100;          // Value Assignment of Boolean Expression.          [true]
+            OK = 25 > 200;          // Value Assignment of Boolean Expression.          [false]
+            OK = 25 < 200;          // Value Assignment of Boolean Expression.          [true]
             OK = 25 >= 26;          // Value Assignment of Boolean Expression.          [false]
             OK = 25 <= 25;          // Value Assignment of Boolean Expression.          [true]
 
