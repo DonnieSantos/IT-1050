@@ -7,7 +7,7 @@
             // +==================================================================================+
             // | Here are some examples of declaring simple variables and assigning values.       |
             // | I have shown some invalid as well as correct value assignments.                  |
-            // | The "=" symbol is called the "assignment operator.                               |
+            // | The "=" symbol is called the "assignment operator".                              |
             // | This is how C# places a value into a variable.                                   |
             // | The type of the value MUST match the type of the variable declaration.           |
             // | Every time you assign a value, it completely replaces the previous value.        |

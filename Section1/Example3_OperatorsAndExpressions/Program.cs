@@ -14,7 +14,7 @@
             // |      The DECREMENT ASSIGNMENT Operator                                       -=  |
             // |                                                                                  |
             // | Arithmetic                                                                       |
-            // |      The ADDITION Operator                                                   +   |
+            // |      The ADDITION Operator (Also String Concatenation)                       +   |
             // |      The SUBTRACTION Operator                                                -   |
             // |      The MULTIPLICATION Operator                                             *   |
             // |      The DIVISION Operator                                                   /   |
@@ -66,6 +66,7 @@
 
             // +==================================================================================+
             // | Another useful trick is to break down expressions into smaller variables.        |
+            // | This is known as a more "semantic" approach. A little easier to read maybe?      |
             // +==================================================================================+
 
             double weightOfTires = 4 * 10;
@@ -76,8 +77,12 @@
             weightOfCarInTons = totalPounds / 2000;
 
             // +==================================================================================+
-            // | A little easier to read maybe?                                                   |
+            // | One more thing... The + Operator can also concatenate strings together.          |
             // +==================================================================================+
+
+            int xCoordinate = 10;
+            int yCoordinate = 20;
+            string formattedPoint = "[" + xCoordinate + "," + yCoordinate + "]";
         }
     }
 }
