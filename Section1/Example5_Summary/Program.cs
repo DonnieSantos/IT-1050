@@ -32,20 +32,20 @@
             string firstName;
             string lastName;
 
-            int addTortilla = 300;
-            int addCarnitas = 220;
-            int addTacoShells = 210;
-            int addRice = 200;
-            int addSteak = 190;
-            int addChicken = 180;
-            int addBarbacoa = 170;
-            int addGuacamole = 170;
-            int addSourCream = 120;
-            int addBeans = 120;
-            int addCheese = 100;
-            int addCornSalsa = 80;
-            int addFajita = 20;
-            int addOtherSalsa = 20;
+            int addTortilla;
+            int addCarnitas;
+            int addTacoShells;
+            int addRice;
+            int addSteak;
+            int addChicken;
+            int addBarbacoa;
+            int addGuacamole;
+            int addSourCream;
+            int addBeans;
+            int addCheese;
+            int addCornSalsa;
+            int addFajita;
+            int addOtherSalsa;
 
             // +==================================================================================+
             // | Now I will start collecting the data I need to compute my meal calories.         |
