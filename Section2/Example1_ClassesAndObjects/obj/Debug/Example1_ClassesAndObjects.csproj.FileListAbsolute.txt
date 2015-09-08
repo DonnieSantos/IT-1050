@@ -1,0 +1,6 @@
+C:\Users\Donald\Desktop\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.exe.config
+C:\Users\Donald\Desktop\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.exe
+C:\Users\Donald\Desktop\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.pdb
+C:\Users\Donald\Desktop\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Donald\Desktop\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.exe
+C:\Users\Donald\Desktop\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.pdb

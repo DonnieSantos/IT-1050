@@ -7,3 +7,4 @@ C:\Users\Donald\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\bin\De
 C:\Users\Donald\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\bin\Debug\Example3_OperatorsAndExpressions.pdb
 C:\Users\Donald\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.exe
 C:\Users\Donald\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.pdb
+C:\Users\Donald\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.csprojResolveAssemblyReference.cache
