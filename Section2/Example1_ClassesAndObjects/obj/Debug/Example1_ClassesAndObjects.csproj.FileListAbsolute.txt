@@ -10,3 +10,6 @@ C:\Users\Donald\Desktop\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Ex
 C:\Users\Donald\Desktop\IT-1050\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.exe
 C:\Users\Donald\Desktop\IT-1050\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.pdb
 C:\Users\Donald\Desktop\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Donald\GitHub\IT-1050\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.exe.config
+C:\Users\Donald\GitHub\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.exe
+C:\Users\Donald\GitHub\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.pdb
