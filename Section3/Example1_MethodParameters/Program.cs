@@ -4,13 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Person donnie = new Person("Donnie", "Santos", 37);
-            Person michael = new Person("Michael", "Santos", 29);
+            Person donnie = new Person();
+            donnie.FirstName = "Donnie";
+            donnie.LastName = "Santos";
+            donnie.Age = 37;
 
-            Person alana = new Person();
-            alana.FirstName = "Alana";
-            alana.LastName = "Santos";
-            alana.Age = 43;
+            Person michael = new Person();
+            michael.FirstName = "Michael";
+            michael.LastName = "Santos";
+            michael.Age = 29;
 
             int sum1 = donnie.AddTwoIntegers(7, 8);
             int sum2 = donnie.AddTwoIntegers(1, 9);
@@ -18,7 +20,6 @@
 
             donnie.Speak("I am the smartest person in the world!");
             michael.Speak("That is definitely true.");
-            alana.Speak("Word.");
 
             System.Console.ReadKey();
         }
