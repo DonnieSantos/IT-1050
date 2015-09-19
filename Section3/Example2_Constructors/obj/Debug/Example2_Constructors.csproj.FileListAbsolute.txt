@@ -1,9 +1,0 @@
-C:\Users\Donald\Desktop\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.exe.config
-C:\Users\Donald\Desktop\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.exe
-C:\Users\Donald\Desktop\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.pdb
-C:\Users\Donald\Desktop\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.csprojResolveAssemblyReference.cache
-C:\Users\Donald\Desktop\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.exe
-C:\Users\Donald\Desktop\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.pdb
-C:\Users\Donald\Documents\GitHub\IT-1050\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.exe.config
-C:\Users\Donald\Documents\GitHub\IT-1050\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.exe
-C:\Users\Donald\Documents\GitHub\IT-1050\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.pdb
