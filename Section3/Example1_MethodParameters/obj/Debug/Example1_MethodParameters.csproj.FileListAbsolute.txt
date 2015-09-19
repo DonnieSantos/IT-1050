@@ -1,0 +1,6 @@
+C:\Users\Donald\Desktop\Section3\Example1_MethodParameters\bin\Debug\Example1_MethodParameters.exe.config
+C:\Users\Donald\Desktop\Section3\Example1_MethodParameters\bin\Debug\Example1_MethodParameters.exe
+C:\Users\Donald\Desktop\Section3\Example1_MethodParameters\bin\Debug\Example1_MethodParameters.pdb
+C:\Users\Donald\Desktop\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.csprojResolveAssemblyReference.cache
+C:\Users\Donald\Desktop\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.exe
+C:\Users\Donald\Desktop\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.pdb
