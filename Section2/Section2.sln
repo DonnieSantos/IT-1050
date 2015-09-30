@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1_ClassesAndObjects", "Example1_ClassesAndObjects\Example1_ClassesAndObjects.csproj", "{A6AC8635-4A37-45D6-BA27-4CC9C9707978}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example3_Statics", "Example3_Statics\Example3_Statics.csproj", "{B2553033-2B38-477D-9011-557EA8E47D00}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4_Summary", "Example4_Summary\Example4_Summary.csproj", "{DC8F7609-4B96-48E1-9060-CC787F472C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example5_Assignment2Solved", "Example5_Assignment2Solved\Example5_Assignment2Solved.csproj", "{CB9D6FB7-1220-4CF2-964D-D6E1987AF8F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DC8F7609-4B96-48E1-9060-CC787F472C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8F7609-4B96-48E1-9060-CC787F472C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8F7609-4B96-48E1-9060-CC787F472C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9D6FB7-1220-4CF2-964D-D6E1987AF8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9D6FB7-1220-4CF2-964D-D6E1987AF8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9D6FB7-1220-4CF2-964D-D6E1987AF8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9D6FB7-1220-4CF2-964D-D6E1987AF8F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
