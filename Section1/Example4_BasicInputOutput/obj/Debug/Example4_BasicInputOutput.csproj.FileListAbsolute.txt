@@ -1,0 +1,4 @@
+C:\Users\Donald\GitHub\IT-1050\Section1\Example4_BasicInputOutput\bin\Debug\Example4_BasicInputOutput.exe
+C:\Users\Donald\GitHub\IT-1050\Section1\Example4_BasicInputOutput\bin\Debug\Example4_BasicInputOutput.pdb
+C:\Users\Donald\GitHub\IT-1050\Section1\Example4_BasicInputOutput\obj\Debug\Example4_BasicInputOutput.exe
+C:\Users\Donald\GitHub\IT-1050\Section1\Example4_BasicInputOutput\obj\Debug\Example4_BasicInputOutput.pdb

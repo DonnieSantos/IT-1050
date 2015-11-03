@@ -1,0 +1,6 @@
+C:\Users\Donald\GitHub\IT-1050\Section3\Example3_FightingObjects\bin\Debug\Example3_FightingObjects.exe.config
+C:\Users\Donald\GitHub\IT-1050\Section3\Example3_FightingObjects\bin\Debug\Example3_FightingObjects.exe
+C:\Users\Donald\GitHub\IT-1050\Section3\Example3_FightingObjects\bin\Debug\Example3_FightingObjects.pdb
+C:\Users\Donald\GitHub\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Donald\GitHub\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.exe
+C:\Users\Donald\GitHub\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.pdb

@@ -1,0 +1,4 @@
+C:\Users\Donald\GitHub\IT-1050\Section1\Example5_Summary\bin\Debug\Example5_Summary.exe
+C:\Users\Donald\GitHub\IT-1050\Section1\Example5_Summary\bin\Debug\Example5_Summary.pdb
+C:\Users\Donald\GitHub\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.exe
+C:\Users\Donald\GitHub\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.pdb
