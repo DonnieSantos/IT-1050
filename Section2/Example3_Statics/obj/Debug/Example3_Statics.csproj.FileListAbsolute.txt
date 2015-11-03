@@ -1,5 +1,0 @@
-C:\Users\Donald\GitHub\IT-1050\Section2\Example3_Statics\bin\Debug\Example3_Statics.exe.config
-C:\Users\Donald\GitHub\IT-1050\Section2\Example3_Statics\bin\Debug\Example3_Statics.exe
-C:\Users\Donald\GitHub\IT-1050\Section2\Example3_Statics\bin\Debug\Example3_Statics.pdb
-C:\Users\Donald\GitHub\IT-1050\Section2\Example3_Statics\obj\Debug\Example3_Statics.exe
-C:\Users\Donald\GitHub\IT-1050\Section2\Example3_Statics\obj\Debug\Example3_Statics.pdb

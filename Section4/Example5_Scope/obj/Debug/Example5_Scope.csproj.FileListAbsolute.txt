@@ -1,6 +1,0 @@
-C:\Users\Donald\Desktop\Section4\Example5_Scope\bin\Debug\Example5_Scope.exe
-C:\Users\Donald\Desktop\Section4\Example5_Scope\bin\Debug\Example5_Scope.pdb
-C:\Users\Donald\Desktop\Section4\Example5_Scope\obj\Debug\Example5_Scope.exe
-C:\Users\Donald\Desktop\Section4\Example5_Scope\obj\Debug\Example5_Scope.pdb
-C:\Users\Donald\GitHub\IT-1050\Section4\Example5_Scope\obj\Debug\Example5_Scope.exe
-C:\Users\Donald\GitHub\IT-1050\Section4\Example5_Scope\obj\Debug\Example5_Scope.pdb

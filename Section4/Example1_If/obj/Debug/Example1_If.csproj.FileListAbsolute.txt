@@ -1,6 +1,0 @@
-C:\Users\Donald\Desktop\Section4\Example1_If\bin\Debug\Example1_If.exe
-C:\Users\Donald\Desktop\Section4\Example1_If\bin\Debug\Example1_If.pdb
-C:\Users\Donald\Desktop\Section4\Example1_If\obj\Debug\Example1_If.exe
-C:\Users\Donald\Desktop\Section4\Example1_If\obj\Debug\Example1_If.pdb
-C:\Users\Donald\GitHub\IT-1050\Section4\Example1_If\obj\Debug\Example1_If.exe
-C:\Users\Donald\GitHub\IT-1050\Section4\Example1_If\obj\Debug\Example1_If.pdb

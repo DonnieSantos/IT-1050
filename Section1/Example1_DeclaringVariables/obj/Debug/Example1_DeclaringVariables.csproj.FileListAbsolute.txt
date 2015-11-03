@@ -1,4 +1,0 @@
-C:\Users\Donald\GitHub\IT-1050\Section1\Example1_DeclaringVariables\bin\Debug\Example1_DeclaringVariables.exe
-C:\Users\Donald\GitHub\IT-1050\Section1\Example1_DeclaringVariables\bin\Debug\Example1_DeclaringVariables.pdb
-C:\Users\Donald\GitHub\IT-1050\Section1\Example1_DeclaringVariables\obj\Debug\Example1_DeclaringVariables.exe
-C:\Users\Donald\GitHub\IT-1050\Section1\Example1_DeclaringVariables\obj\Debug\Example1_DeclaringVariables.pdb

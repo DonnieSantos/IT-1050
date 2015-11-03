@@ -1,7 +1,0 @@
-C:\Users\Donald\Desktop\Section4\Example2_IfElse\bin\Debug\Example2_IfElse.exe
-C:\Users\Donald\Desktop\Section4\Example2_IfElse\bin\Debug\Example2_IfElse.pdb
-C:\Users\Donald\Desktop\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.csprojResolveAssemblyReference.cache
-C:\Users\Donald\Desktop\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.exe
-C:\Users\Donald\Desktop\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.pdb
-C:\Users\Donald\GitHub\IT-1050\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.exe
-C:\Users\Donald\GitHub\IT-1050\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.pdb
