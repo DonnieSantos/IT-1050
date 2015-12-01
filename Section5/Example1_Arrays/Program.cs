@@ -15,8 +15,6 @@ namespace Example1_Arrays
             arrayOfIntegers[0] = 15;                                // Value Assignment.
             arrayOfIntegers[1] = 27;                                // Value Assignment.
             arrayOfIntegers[2] = 39;                                // Value Assignment.
-            arrayOfIntegers[3] = 51;                                // Index Out Of Bounds Crash!
-            arrayOfIntegers[4] = 67;                                // Index Out Of Bounds Crash!
 
             ///////////////////////////////////////////////////////////////////////////////////////
             ///////////////////////////////////////////////////////////////////////////////////////
@@ -27,8 +25,6 @@ namespace Example1_Arrays
             arrayOfStrings[0] = "One";                              // Value Assignment.
             arrayOfStrings[1] = "Two";                              // Value Assignment.
             arrayOfStrings[2] = "Three";                            // Value Assignment.
-            arrayOfStrings[3] = "Four";                             // Index Out Of Bounds Crash!
-            arrayOfStrings[4] = "Five";                             // Index Out Of Bounds Crash!
 
             ///////////////////////////////////////////////////////////////////////////////////////
             ///////////////////////////////////////////////////////////////////////////////////////

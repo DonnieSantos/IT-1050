@@ -1,0 +1,7 @@
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\bin\Debug\Example2_Loops.exe
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\bin\Debug\Example2_Loops.pdb
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\bin\Debug\Example4_ClassLibraries.dll
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\bin\Debug\Example4_ClassLibraries.pdb
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\obj\Debug\Example2_Loops.csprojResolveAssemblyReference.cache
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\obj\Debug\Example2_Loops.exe
+C:\Users\Donald\GitHub\IT-1050\Section5\Example2_Loops\obj\Debug\Example2_Loops.pdb
