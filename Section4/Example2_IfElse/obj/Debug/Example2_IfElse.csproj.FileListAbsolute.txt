@@ -1,0 +1,6 @@
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example2_IfElse\bin\Debug\Example2_IfElse.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example2_IfElse\bin\Debug\Example2_IfElse.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example2_IfElse\obj\Debug\Example2_IfElse.pdb

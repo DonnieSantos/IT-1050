@@ -3,3 +3,9 @@ C:\Users\Donald\GitHub\IT-1050\Section5\Example4_ClassLibraries\bin\Debug\Exampl
 C:\Users\Donald\GitHub\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.csprojResolveAssemblyReference.cache
 C:\Users\Donald\GitHub\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.dll
 C:\Users\Donald\GitHub\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example4_ClassLibraries\bin\Debug\Example4_ClassLibraries.dll
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example4_ClassLibraries\bin\Debug\Example4_ClassLibraries.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.dll
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example4_ClassLibraries\obj\Debug\Example4_ClassLibraries.pdb

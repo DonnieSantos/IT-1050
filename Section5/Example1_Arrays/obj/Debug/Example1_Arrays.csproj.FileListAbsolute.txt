@@ -5,3 +5,12 @@ C:\Users\Donald\GitHub\IT-1050\Section5\Example1_Arrays\bin\Debug\Example4_Class
 C:\Users\Donald\GitHub\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.csprojResolveAssemblyReference.cache
 C:\Users\Donald\GitHub\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.exe
 C:\Users\Donald\GitHub\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\bin\Debug\Example1_Arrays.exe
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\bin\Debug\Example1_Arrays.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\bin\Debug\Example4_ClassLibraries.dll
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\bin\Debug\Example4_ClassLibraries.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.csproj.CopyComplete
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.exe
+C:\Users\Donnie\source\repos\IT-1050\Section5\Example1_Arrays\obj\Debug\Example1_Arrays.pdb

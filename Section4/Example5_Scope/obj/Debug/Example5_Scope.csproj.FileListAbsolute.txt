@@ -1,0 +1,5 @@
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example5_Scope\bin\Debug\Example5_Scope.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example5_Scope\bin\Debug\Example5_Scope.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example5_Scope\obj\Debug\Example5_Scope.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example5_Scope\obj\Debug\Example5_Scope.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example5_Scope\obj\Debug\Example5_Scope.pdb

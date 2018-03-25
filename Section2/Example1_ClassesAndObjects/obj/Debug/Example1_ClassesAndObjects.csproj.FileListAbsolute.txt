@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\bin\Debug\Example1_ClassesAndObjects.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example1_ClassesAndObjects\obj\Debug\Example1_ClassesAndObjects.pdb

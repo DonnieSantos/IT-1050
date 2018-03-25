@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\bin\Debug\Example3_Statics.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\bin\Debug\Example3_Statics.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\bin\Debug\Example3_Statics.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\obj\Debug\Example3_Statics.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\obj\Debug\Example3_Statics.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\obj\Debug\Example3_Statics.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example3_Statics\obj\Debug\Example3_Statics.pdb

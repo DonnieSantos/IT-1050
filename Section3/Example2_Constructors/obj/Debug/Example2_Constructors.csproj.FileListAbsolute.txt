@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.exe
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\bin\Debug\Example2_Constructors.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.exe
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example2_Constructors\obj\Debug\Example2_Constructors.pdb

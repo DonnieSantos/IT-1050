@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\bin\Debug\Example3_FightingObjects.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\bin\Debug\Example3_FightingObjects.exe
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\bin\Debug\Example3_FightingObjects.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.exe
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example3_FightingObjects\obj\Debug\Example3_FightingObjects.pdb

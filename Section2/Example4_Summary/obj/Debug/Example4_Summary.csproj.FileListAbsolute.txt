@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\bin\Debug\Example4_Summary.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\bin\Debug\Example4_Summary.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\bin\Debug\Example4_Summary.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\obj\Debug\Example4_Summary.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\obj\Debug\Example4_Summary.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\obj\Debug\Example4_Summary.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example4_Summary\obj\Debug\Example4_Summary.pdb

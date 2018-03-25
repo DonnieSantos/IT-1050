@@ -1,0 +1,6 @@
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example5_Assignment2Solved\bin\Debug\Example5_Assignment2Solved.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example5_Assignment2Solved\bin\Debug\Example5_Assignment2Solved.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example5_Assignment2Solved\bin\Debug\Example5_Assignment2Solved.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example5_Assignment2Solved\obj\Debug\Example5_Assignment2Solved.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example5_Assignment2Solved\obj\Debug\Example5_Assignment2Solved.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example5_Assignment2Solved\obj\Debug\Example5_Assignment2Solved.pdb

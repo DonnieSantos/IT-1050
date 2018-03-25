@@ -1,0 +1,6 @@
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example1_If\bin\Debug\Example1_If.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example1_If\bin\Debug\Example1_If.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example1_If\obj\Debug\Example1_If.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example1_If\obj\Debug\Example1_If.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example1_If\obj\Debug\Example1_If.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example1_If\obj\Debug\Example1_If.pdb

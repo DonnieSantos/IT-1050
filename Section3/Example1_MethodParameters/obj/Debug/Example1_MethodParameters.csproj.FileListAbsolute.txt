@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\bin\Debug\Example1_MethodParameters.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\bin\Debug\Example1_MethodParameters.exe
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\bin\Debug\Example1_MethodParameters.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.exe
+C:\Users\Donnie\source\repos\IT-1050\Section3\Example1_MethodParameters\obj\Debug\Example1_MethodParameters.pdb

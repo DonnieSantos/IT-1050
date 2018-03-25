@@ -1,0 +1,6 @@
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example4_Nesting\bin\Debug\Example4_Nesting.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example4_Nesting\bin\Debug\Example4_Nesting.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example4_Nesting\obj\Debug\Example4_Nesting.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example4_Nesting\obj\Debug\Example4_Nesting.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example4_Nesting\obj\Debug\Example4_Nesting.exe
+C:\Users\Donnie\source\repos\IT-1050\Section4\Example4_Nesting\obj\Debug\Example4_Nesting.pdb

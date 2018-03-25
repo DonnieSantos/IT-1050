@@ -1,0 +1,7 @@
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\bin\Debug\Example2_ObjectMethods.exe.config
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\bin\Debug\Example2_ObjectMethods.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\bin\Debug\Example2_ObjectMethods.pdb
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\obj\Debug\Example2_ObjectMethods.csprojResolveAssemblyReference.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\obj\Debug\Example2_ObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\obj\Debug\Example2_ObjectMethods.exe
+C:\Users\Donnie\source\repos\IT-1050\Section2\Example2_ObjectMethods\obj\Debug\Example2_ObjectMethods.pdb
