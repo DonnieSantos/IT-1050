@@ -3,3 +3,8 @@ C:\Users\Donnie\source\repos\IT-1050\Section1\Example5_Summary\bin\Debug\Example
 C:\Users\Donnie\source\repos\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.csproj.CoreCompileInputs.cache
 C:\Users\Donnie\source\repos\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.exe
 C:\Users\Donnie\source\repos\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.pdb
+D:\Users\Donnie\Desktop\IT-1050\Section1\Example5_Summary\bin\Debug\Example5_Summary.exe
+D:\Users\Donnie\Desktop\IT-1050\Section1\Example5_Summary\bin\Debug\Example5_Summary.pdb
+D:\Users\Donnie\Desktop\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.csproj.CoreCompileInputs.cache
+D:\Users\Donnie\Desktop\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.exe
+D:\Users\Donnie\Desktop\IT-1050\Section1\Example5_Summary\obj\Debug\Example5_Summary.pdb
