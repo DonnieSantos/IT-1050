@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            // A double slash creates a "comment". Comments are ignored by the compiler.
+            // A double slash creates a "comment".
+            // Comments are ignored by the compiler.
 
             // +==================================================================================+
             // | So, now I will declare a few variables.                                          |
