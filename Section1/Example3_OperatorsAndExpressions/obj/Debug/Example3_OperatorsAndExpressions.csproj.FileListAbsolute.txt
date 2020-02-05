@@ -6,7 +6,6 @@ C:\Users\Donnie\source\repos\IT-1050\Section1\Example3_OperatorsAndExpressions\o
 C:\Users\Donnie\source\repos\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.pdb
 D:\Users\Donnie\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\bin\Debug\Example3_OperatorsAndExpressions.exe
 D:\Users\Donnie\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\bin\Debug\Example3_OperatorsAndExpressions.pdb
-D:\Users\Donnie\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.csprojResolveAssemblyReference.cache
 D:\Users\Donnie\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.csproj.CoreCompileInputs.cache
 D:\Users\Donnie\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.exe
 D:\Users\Donnie\Desktop\IT-1050\Section1\Example3_OperatorsAndExpressions\obj\Debug\Example3_OperatorsAndExpressions.pdb
