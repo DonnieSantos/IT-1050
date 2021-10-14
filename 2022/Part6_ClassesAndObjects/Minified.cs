@@ -1,5 +1,7 @@
 ﻿using IO = System.Console;
 
+// https://dotnetfiddle.net/eVdFw0
+
 namespace Part6_ClassesAndObjects
 {
     public static class Runner

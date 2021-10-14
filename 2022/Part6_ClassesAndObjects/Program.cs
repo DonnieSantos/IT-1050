@@ -1,5 +1,8 @@
 ﻿using IO = System.Console;
 
+// https://dotnetfiddle.net/SOOZlM (documented)
+// https://dotnetfiddle.net/eVdFw0 (minified)
+
 namespace Part6_ClassesAndObjects
 {
     class Program
