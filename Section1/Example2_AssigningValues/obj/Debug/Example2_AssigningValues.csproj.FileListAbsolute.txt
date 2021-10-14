@@ -1,4 +1,0 @@
-C:\Users\Donnie\source\repos\IT-1050\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.csprojResolveAssemblyReference.cache
-C:\Users\Donnie\source\repos\IT-1050\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.csproj.CoreCompileInputs.cache
-D:\Users\Donnie\Desktop\IT-1050\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.csprojResolveAssemblyReference.cache
-D:\Users\Donnie\Desktop\IT-1050\Section1\Example2_AssigningValues\obj\Debug\Example2_AssigningValues.csproj.CoreCompileInputs.cache
