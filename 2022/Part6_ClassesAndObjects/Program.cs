@@ -1,7 +1,6 @@
 ﻿using IO = System.Console;
 
-// https://dotnetfiddle.net/SOOZlM (documented)
-// https://dotnetfiddle.net/eVdFw0 (minified)
+// https://dotnetfiddle.net/SOOZlM
 
 namespace Part6_ClassesAndObjects
 {
