@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part6_ClassesAndObjects", "Part6_ClassesAndObjects\Part6_ClassesAndObjects.csproj", "{37E88DE7-3AFC-4CAE-8397-B9D0CBFC1E1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part7_StaticVariables", "Part7_StaticVariables\Part7_StaticVariables.csproj", "{7E7F55B7-731E-44F4-BA29-5634B7A4BF90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part7_StaticVariables", "Part7_StaticVariables\Part7_StaticVariables.csproj", "{7E7F55B7-731E-44F4-BA29-5634B7A4BF90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part8_Methods", "Part8_Methods\Part8_Methods.csproj", "{306DDCE0-BD33-420C-BF03-4AFB004C7DD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7E7F55B7-731E-44F4-BA29-5634B7A4BF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E7F55B7-731E-44F4-BA29-5634B7A4BF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E7F55B7-731E-44F4-BA29-5634B7A4BF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306DDCE0-BD33-420C-BF03-4AFB004C7DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306DDCE0-BD33-420C-BF03-4AFB004C7DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306DDCE0-BD33-420C-BF03-4AFB004C7DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306DDCE0-BD33-420C-BF03-4AFB004C7DD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
