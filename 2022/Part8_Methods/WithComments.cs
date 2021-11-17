@@ -20,7 +20,7 @@
 
 namespace Part8_Methods
 {
-    // https://dotnetfiddle.net/x5NGHk
+    // https://dotnetfiddle.net/x5NGHk (doc)
 
     class WithComments
     {

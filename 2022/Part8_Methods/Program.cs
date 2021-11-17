@@ -1,7 +1,8 @@
 ﻿namespace Part8_Methods
 {
-    // https://dotnetfiddle.net/cnYgL7
-    // https://dotnetfiddle.net/x5NGHk
+    // https://dotnetfiddle.net/cnYgL7 (min)
+    // https://dotnetfiddle.net/x5NGHk (doc)
+    // https://dotnetfiddle.net/gLt1QD (adv)
 
     class Program
     {
