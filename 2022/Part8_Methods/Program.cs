@@ -9,13 +9,16 @@
         {
             Person donnie = new Person();
             donnie.setNameAndAge("Donnie", 43);
-            Person.numPeople++;
-            Person.sumAllAges += donnie.getAge();
+            Person.NUM_PEOPLE++;
+            Person.SUM_OF_ALL_AGES += donnie.getAge();
+            System.Console.WriteLine(donnie.getAge());
+
+            int blah = donnie.getAge();
 
             Person michael = new Person();
             michael.setNameAndAge("Michael", 35);
-            Person.numPeople++;
-            Person.sumAllAges += michael.getAge();
+            Person.NUM_PEOPLE++;
+            Person.SUM_OF_ALL_AGES += michael.getAge();
 
             donnie.printNameAndAge();
             michael.printNameAndAge();

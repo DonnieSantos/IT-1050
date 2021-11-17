@@ -48,7 +48,7 @@ namespace Part8_Methods
 
         public int computeYearsUntilCanVote()
         {
-            return Person.minVotingAge - this.age;
+            return Person.MIN_VOTING_AGE - this.age;
         }
 
         // "Function", a method with inputs and an output.
@@ -73,14 +73,14 @@ namespace Part8_Methods
 
         public static double calculateAverageAge()
         {
-            return (double)Person.sumAllAges / (double)Person.numPeople;
+            return (double)Person.SUM_OF_ALL_AGES / (double)Person.NUM_PEOPLE;
         }
 
         // This is a "Computed Value" that is not static itself, but relies on both a member variable value and a static value.
 
         public bool canVote()
         {
-            return this.age >= Person.minVotingAge;
+            return this.age >= Person.MIN_VOTING_AGE;
         }
 
         // A Void Function. (So not really a function at all since a function implies it returns a value...)
@@ -120,7 +120,7 @@ namespace Part8_Methods
 
         public static void printAverageAge()
         {
-            System.Console.WriteLine("There are " + Person.numPeople + " with an average age of: " + Person.calculateAverageAge() + ".");
+            System.Console.WriteLine("There are " + Person.NUM_PEOPLE + " with an average age of: " + Person.calculateAverageAge() + ".");
         }
 
         // Recap of various kinds of Method Signatures:
